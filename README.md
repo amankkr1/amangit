@@ -1,0 +1,2 @@
+# amangit
+first repository
